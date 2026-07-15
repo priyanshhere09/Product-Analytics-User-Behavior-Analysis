@@ -16,6 +16,7 @@ Funnel analysis to evaluate conversion behavior (View → Cart → Purchase)
 Cohort-based retention analysis to measure user churn over time
 User-level feature engineering and K-Means clustering for behavioral segmentation
 Key Insights
+
 User behavior is heavily browsing-driven, with over 97% of interactions being product views.
 Approximately 60% of purchases occur without a cart event, indicating strong direct-purchase behavior.
 Cohort analysis reveals sharp Day-1 churn (~80–85%), followed by stabilization among returning users.
@@ -26,9 +27,11 @@ Impulse Buyers
 Power Users
 A very small fraction of power users contributes disproportionately to engagement and purchases.
 Tools Used
+
 Python (pandas, numpy, matplotlib, seaborn, scikit-learn)
 Jupyter Notebook
 Future Work
+
 Validate findings on a larger data sample
 Build supervised models for churn or purchase propensity
 Design A/B tests to evaluate retention and conversion improvements
