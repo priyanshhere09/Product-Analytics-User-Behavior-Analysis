@@ -1,12 +1,16 @@
 # Product-Analytics-User-Behavior-Analysis
 Overview
+
 This project analyzes large-scale e-commerce event data to understand user behavior across browsing, purchasing, retention, and engagement stages. The goal is to identify funnel drop-offs, retention patterns, and distinct user segments to derive actionable product insights.
 
 Dataset
+
 Source: E-commerce user interaction logs
 Scale: ~285 million raw events
-Approach: A representative sample of ~5–10 million events was used for analysis to balance scale and computational efficiency.
+Approach:
+A representative sample of ~5–10 million events was used for analysis to balance scale and computational efficiency.
 Methodology
+
 Exploratory Data Analysis (EDA) to understand event distribution and user activity
 Funnel analysis to evaluate conversion behavior (View → Cart → Purchase)
 Cohort-based retention analysis to measure user churn over time
