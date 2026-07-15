@@ -30,6 +30,7 @@ Tools Used
 
 Python (pandas, numpy, matplotlib, seaborn, scikit-learn)
 Jupyter Notebook
+
 Future Work
 
 Validate findings on a larger data sample
